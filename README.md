@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spzla&title_color=ddd&text_color=ddd&bg_color=333&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spzla&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=3036d)
